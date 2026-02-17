@@ -7,11 +7,16 @@ NIM:   40040325620004<br>
 Kelas: A<br>
 Program Studi Teknologi Rekayasa Otomasi<br>
 Departemen Teknologi Industri<br>
+Sekolah Vokasi<br>
 Universitas Diponegoro<br>
 
 Dosen Pengampu
 - Megarini Hersaputri, S.T., M.T
 - Rofiq Cahyo Prayoo, S.T., M.T.
+
+## YouTube
+
+<https://www.youtube.com/@barendrawisnu>
 
 ## Versi SolidWorks
 

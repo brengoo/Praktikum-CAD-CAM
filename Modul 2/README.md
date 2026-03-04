@@ -6,4 +6,4 @@ Sketsa gambar 2D
 
 ![Thumbnail CAD part 2](./image/thumbnail.png "Thumbnail CAD part 2")
 
-<https://youtu.be/D3jbSXtNdrE>
+<https://youtu.be/WVMKVtvH0jc>

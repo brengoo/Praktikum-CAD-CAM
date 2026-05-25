@@ -6,4 +6,4 @@ Cutting Laser
 
 ![Thumbnail CAD part 10](./image/thumbnail.png "Thumbnail CAD part 10")
 
-<https://youtu.be/AtkSbmiaaNI>
+<https://youtu.be/65otz5ZsZlY>

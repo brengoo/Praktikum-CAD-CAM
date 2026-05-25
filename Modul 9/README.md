@@ -4,6 +4,6 @@
 
 ## YouTube
 
-![Thumbnail CAD part 8](./image/thumbnail.png "Thumbnail CAD part 9")
+![Thumbnail CAD part 9](./image/thumbnail.png "Thumbnail CAD part 9")
 
 <https://youtu.be/AtkSbmiaaNI>

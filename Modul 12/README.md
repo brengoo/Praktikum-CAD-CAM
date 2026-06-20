@@ -6,4 +6,4 @@ Milling dengan Fusion
 
 ![Thumbnail CAD part 12](./image/thumbnail.png "Thumbnail CAD part 12")
 
-<https://youtu.be/kfjC8mdNaas>
+<https://youtu.be/Y5GgS17DRlE>
